@@ -16,11 +16,23 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 1]</b></font> Yi Li, <b>Huiying Xu*</b>, Yiming Sun, Pengfei Zhu, Lingling Xu, Xinzhong Zhu: <i><u>KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery</u></i>. <font color="green">Expert Systems With Applications</font>  (28 Oct 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/KSCNet.pdf">[PDF]</a></li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Scientific Reports' 1]</b></font> Nafissa T. Trouba, <b>Huiying Xu*</b>, Mohamed E. M. Alngar*, Reham M. A.Shohib,  Mohammed El-Meligy, Xinzhong Zhu, Mohamed Sharaf: <i><u>Optical soliton solutions of the stochastic generalized nonlinear Schrödinger equation with arbitrary refractive index in Itô sense</u></i>. <font color="green">Scientific Reports</font>  (Oct 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Optical soliton solutions.pdf">[PDF]</a></li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 3]</b></font> Nafissa T. Trouba, <b>Huiying Xu*</b>, Reham M. A.Shohib*, Mohamed E. M. Alngar,  Mohammed El-Meligy, Xinzhong Zhu, Adham E. Ragab: <i><u>Stochastic soliton dynamics in the perturbed Gerdjikov-Ivanov equation with multiplicative noise via the new Jacobi elliptic function expansion method</u></i>. <font color="green">AIMS Mathematics</font>  (09 Oct 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Stochastic soliton dynamics.pdf">[PDF]</a></li></p>  
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSI' 1]</b></font> Zohaib Ali, Junaid Hassan, Muhammad Umar Aftab*, Negalign Wake Hundera*, <b>Huiying Xu</b>, Xinzhong Zhu*: <i><u>Securing Wireless Body Area Network with lightweight certificateless signcryption scheme using equality test</u></i>. <font color="green"> Computer Standards & Interfaces </font> . (17 Sep 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Securing Wireless Body.pdf">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, Xinzhong Zhu, <b>Huiying Xu*</b>, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, <b>Huiying Xu*</b>, Xinzhong Zhu, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Food Chemistry' 1]</b></font> Jinhong Li, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiping Xiong, Xiaolei Zhang: <i><u>FSF-ViT: Image augmentation and adaptive global-local feature fusion for Few-Shot Food classification</u></i>. <font color="green">Food Chemistry</font> . (12 July 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FSFViT.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EAAI' 1]</b></font> Xuedong He***, <b>Huiying Xu*</b>, Xinzhong Zhu**, Hongbo Li, Xiao Huang, Yunliang Jiang: <i><u>Learning color prompt and position constraint for visual tracking</u></i>. <font color="green">Engineering Applications of Artificial Intelligence</font> . (4 June 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Learning color prompt.pdf">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[electronics' 1]</b></font> Balong Wang, Nassim Bessaad, <b>Huiying Xu*</b>, Xinzhong Zhu, Hongbo Li: <i><u>Mergeable Probabilistic Voxel Mapping for LiDAR–Inertial–Visual Odometry</u></i>. <font color="green"> electronics </font> . (May 24 2025) (SCI Q4) <a href = "https://xinzhongzhu.github.io/document/Mergeable Probabilistic Voxel Mapping for LiDAR–Inertial–Visual Odometry.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CJPH' 1]</b></font> Zahoor Iqbal*, Nisha A․, Vinoth kumar B․, <b>Huiying Xu*</b>, Xinzhong Zhu*, Ridha Selmi*, Sahar Ahmed Idris, Ines Hilali Jaghdam, Ahmed M. Abed: <i><u>Numerical simulations of combined effect of viscosity variation and magnetohydrodynamic (MHD) characteristics for wide porous slider bearings with exponential film profile</u></i>. <font color="green">Chinese Journal of Physics</font> . (24 March 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/CJPH2984.pdf">[PDF]</a></li></p>
 
@@ -98,6 +110,13 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[RICAI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiaxiao Xiong: <i><u>Media Practice-Driven Technology Iteration and Value Realization: A Framework Study on Geometry-Guided UAV Crowd Counting</u></i>. <font color="green">RICAI 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/Media Practice-Driven Technology Iteration.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, <b>Huiying Xu*</b>, Xinzhong Zhu, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIC' 1]</b></font> Ke Sheng, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection</u></i>. <font color="green">ICIC 2025</font>. (CCF Rank C) <a href = "https://xinzhongzhu.github.io/document/Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection.pdf">[PDF]</a> </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 2]</b></font> Xuedong He*#, <b>Huiying Xu*#</b>, Xinzhong Zhu, Hongbo Li: <i><u>High-Performance Discriminative Tracking with Spatio-Temporal Template Fusion</u></i>. (# Equal contribution) <font color="green">ACM MM 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/High-Performance Discriminative Tracking with Spatio-Temporal Template Fusion.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 2]</b></font> Yiming Sun, Xin Li, Pengfei Zhu*, Qinghua Hu, Dongwei Ren, <b>Huiying Xu</b>, Xinzhong Zhu: <i><u>Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/3251_Task_Gated_Multi_Expert.pdf">[PDF]</a> <a href = "https://github.com/LeeX54946/TG-ECNet">[Code]</a>  </li></p>
@@ -140,6 +159,22 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 </ol>
   </p>
 </details>
+
+
+<br />
+
+<details open>
+  <summary><font size="6"><b>Courses</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
+  <p>
+    <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Computer Vision Object Detection Technology and Applications </b></font> <i><u>:This course systematically covers the theories, techniques and cutting-edge developments of object detection, a core task in computer vision.</u></i> <a href = "https://mooc1.chaoxing.com/course-ans/courseportal/258217066.html">[Course Link]</a></li></p>
+
+
+</ol>
+  </p>
+</details>
+
 
 
 <br />
