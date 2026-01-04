@@ -16,6 +16,9 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[BSPC' 1]</b></font> Yi Li, <b>Huiying Xu</b>*, Xinzhong Zhu, Xiao Huang, Hongbo Li: <i><u>BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection</u></i>. <font color="green">Biomedical Signal Processing and Control (29 Nov 2024) 104765</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/BTDet-BSPC.pdf">[PDF]</a></li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JVCI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>A Multi-Task Visual Framework: Geometry-Guided UAV Crowd Counting and Localization for Media Practice</u></i>. <font color="green">Journal of Visual Communication and Image Representation</font>  (2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Media Practice_JVCI.pdf">[PDF]</a></li></p>  
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Mathematics' 1]</b></font> Nafissa T. Trouba, <b>Huiying Xu*</b>, Reham M. A. Shohib*, Mohamed E. M. Alngar, Mohammed El-Meligy, Xinzhong Zhu, Adham E. Ragab: <i><u>Stochastic soliton dynamics in the perturbed Gerdjikov-Ivanov equation with multiplicative noise via the new Jacobi elliptic function expansion method</u></i>. <font color="green">Mathematics</font>  (20 Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Stochastic soliton dynamics.pdf">[PDF]</a></li></p>  
