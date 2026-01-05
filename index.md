@@ -17,7 +17,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <ol>
 
 
- <p style="margin-top: 8px;"><li><font face="sverdana" color="blue"><b>[BSPC' 1]</b></font> Yi Li, <b>Huiying Xu</b>*, Xinzhong Zhu, Xiao Huang, Hongbo Li: <i><u>BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection</u></i>. <font color="green">Biomedical Signal Processing and Control (29 Nov 2025) 104765</font> (<b>DSP</b>). (SCI Q1) <a href = "https://huiyingxu-zj.github.io/document/BTDet-BSPC.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="sverdana" color="blue"><b>[BSPC' 1]</b></font> Yi Li, <b>Huiying Xu</b>*, Xinzhong Zhu, Xiao Huang, Hongbo Li: <i><u>BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection</u></i>. <font color="green">Biomedical Signal Processing and Control </font> (29 Nov 2025)  (SCI Q2) <a href = "https://huiyingxu-zj.github.io/document/BTDet-BSPC.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JVCI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>A Multi-Task Visual Framework: Geometry-Guided UAV Crowd Counting and Localization for Media Practice</u></i>. <font color="green">Journal of Visual Communication and Image Representation</font>  (2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Media Practice_JVCI.pdf">[PDF]</a></li></p>  
 
@@ -33,7 +33,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, Xinzhong Zhu, <b>Huiying Xu*</b>, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, <b>Huiying Xu*</b>, Xinzhong Zhu, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, <b>Huiying Xu*</b>, Xinzhong Zhu, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">Medical Physics</font> . (8 Sep 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Food Chemistry' 1]</b></font> Jinhong Li, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiping Xiong, Xiaolei Zhang: <i><u>FSF-ViT: Image augmentation and adaptive global-local feature fusion for Few-Shot Food classification</u></i>. <font color="green">Food Chemistry</font> . (12 July 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FSFViT.pdf">[PDF]</a></li></p>
 
