@@ -112,6 +112,11 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICME' 1]</b></font> Shihao Dong, Xiaotong Zhou, Yuhui Zheng, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>Center-Oriented Prototype Contrastive Clustering</u></i>. <font color="green">ICME 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Center-Oriented Prototype Contrastive Clustering.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCNN' 1]</b></font> Shihao Dong, Yuhui Zheng, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>Multi-view Clustering via Bi-level Decoupling and Consistency Learning</u></i>. <font color="green">IJCNN 2025</font>. (CCF Rank C) <a href = "https://xinzhongzhu.github.io/document/Multi-view Clustering.pdf">[PDF]</a> </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[RICAI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiaxiao Xiong: <i><u>Media Practice-Driven Technology Iteration and Value Realization: A Framework Study on Geometry-Guided UAV Crowd Counting</u></i>. <font color="green">RICAI 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/Media Practice-Driven Technology Iteration.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, <b>Huiying Xu*</b>, Xinzhong Zhu, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
@@ -125,7 +130,16 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSCWD' 1]</b></font> Linwei Yao, Kuan Li*, <b>Huiying Xu</b>, Xinzhong Zhu*, Hongbo Li: <i><u>Multi-DAT: Dynamic Job Task Scheduling Method Based on Multi-agent Reinforcement Learning</u></i>. <font color="green">CSCWD 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_scheduling_of_carrier_based_aircraft_support_tasks_based_on_multi_agent_reinforcement_learning.pdf">[PDF]</a>  </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 4]</b></font> Zeyu Wang, Chen Li, <b>Huiying Xu*</b>, Xinzhong Zhu,  Xiao Huang, Hongbo Li: <i><u>RestorMamba: An Enhanced Synergistic State Space Model for Image Restoration</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/10 RestorMamba_An_Enhanced_Synergistic_State_Space_Model_for_Image_Restoration.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 3]</b></font> Zeyu Wang, Chen Li, <b>Huiying Xu*</b>, Xinzhong Zhu,  Xiao Huang, Hongbo Li: <i><u>MambaInst: Lightweight State Space Model for Real-Time Instance Segmentation</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/11 MambaInst_Lightweight_State_Space_Model_for_Real-Time_Instance_Segmentation.pdf">[PDF]</a>  </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 2]</b></font> Minghao Li, Hechuan Lin, Huiying Xu*, Ziying Wang, <b>Xinzhong Zhu</b>,  Xiao Huang: <i><u>One-step Incomplete Muti-view Clustering based on Bipartite Graph Learning</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Minghao-Li.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 6]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, <b>Huiying Xu*</b>, Xinwang Liu*: <i><u>Incremental Nystrom-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/AAAI-Incremental Nystrom-based Multiple Kernel Clustering.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, <b>Huiying Xu*</b>, En Zhu*, Xinwang Liu*, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/AAAI-Max-Mahalanobis Anchors Guidance for Multi-View Clustering.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Guan, <b>Huiying Xu</b>*, Xinwang Liu*: <i><u>Incremental Nystrom-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Incremental.pdf">[PDF]</a> </li></p>
 
