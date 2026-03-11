@@ -16,8 +16,11 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 2]</b></font> Minghao Li, <b>Huiying Xu*</b>, Ziying Wang, Hechuan Lin, Xiaolei Zhang*, Xinzhong Zhu*: <i><u>Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data</u></i>. <font color="green">Knowledge-Based Systems</font> (28 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data.pdf">[PDF]</a></li></p>
 
- <p style="margin-top: 8px;"><li><font face="sverdana" color="blue"><b>[BSPC' 1]</b></font> Yi Li, <b>Huiying Xu</b>*, Xinzhong Zhu, Xiao Huang, Hongbo Li: <i><u>BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection</u></i>. <font color="green">Biomedical Signal Processing and Control </font> (29 Nov 2025)  (SCI Q2/中科院2区) <a href = "https://huiyingxu-zj.github.io/document/BTDet-BSPC.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 1]</b></font> Qian Chen#, <b>Huiying Xu#*</b>, Ruidong Wang, Yue Liu, Xinzhong Zhu*: <i><u>Structure adversarial augmented graph anomaly detection via multi-view contrastive learning</u></i>. <font color="green">Knowledge-Based Systems</font> (1 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Structure adversarial augmented graph anomaly detection via multi-view contrastive learning.pdf">[PDF]</a>  (# Equal Contribution) </li></p>
+
+ <p style="margin-top: 8px;"><li><font face="sverdana" color="blue"><b>[BSPC' 1]</b></font> Yi Li, <b>Huiying Xu*</b>, Xinzhong Zhu, Xiao Huang, Hongbo Li: <i><u>BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection</u></i>. <font color="green">Biomedical Signal Processing and Control </font> (29 Nov 2025)  (SCI Q2/中科院2区) <a href = "https://huiyingxu-zj.github.io/document/BTDet-BSPC.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JVCI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>A Multi-Task Visual Framework: Geometry-Guided UAV Crowd Counting and Localization for Media Practice</u></i>. <font color="green">Journal of Visual Communication and Image Representation</font>  (2025) (SCI Q2/中科院4区) <a href = "https://xinzhongzhu.github.io/document/Media Practice_JVCI.pdf">[PDF]</a></li></p>  
 
