@@ -16,7 +16,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AEI' 1]</b></font> Yi Li#, <b>Huiying Xu#*</b>, Xinzhong Zhu, Hongbo Li*, Yiming Sun, Ruidong Wang, Lingling Xu: <i><u>IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection</u></i>. <font color="green">Advanced Engineering Informatics</font> (26 Mar 2026) (SCI Q1/中科院1区) <a href = "https://xinzhongzhu.github.io/document/IPeDet-AEI.pdf">[PDF]</a>  (# Equal contribution)  </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AEI' 1]</b></font> Yi Li#, <b>Huiying Xu#*</b>, Xinzhong Zhu, Hongbo Li*, Yiming Sun, Ruidong Wang, Lingling Xu: <i><u>IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection</u></i>. <font color="green">Advanced Engineering Informatics</font> (26 Mar 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/IPeDet-AEI.pdf">[PDF]</a>  (# Equal contribution)  </li></p>TOP
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 2]</b></font> Minghao Li#, <b>Huiying Xu#*</b>, Ziying Wang, Hechuan Lin, Xiaolei Zhang*, Xinzhong Zhu*: <i><u>Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data</u></i>. <font color="green">Knowledge-Based Systems</font> (28 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data.pdf">[PDF]</a>   (# Equal Contribution) </li></p>
 
