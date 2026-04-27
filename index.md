@@ -117,6 +117,8 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font> Chen Li#, <b>Huiying Xu#</b>, Changxin Gao*, Zeyu Wang, Yun Liu, Xinzhong Zhu: <i><u>Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts</u></i>. (# Equal contribution)  <font color="green">NeurIPS 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Towards Single-Source Domain Generalized Object.pdf">[PDF]</a>  </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICME' 1]</b></font> Shihao Dong, Xiaotong Zhou, Yuhui Zheng, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>Center-Oriented Prototype Contrastive Clustering</u></i>. <font color="green">ICME 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Center-Oriented Prototype Contrastive Clustering.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCNN' 1]</b></font> Shihao Dong, Yuhui Zheng, <b>Huiying Xu*</b>, Xinzhong Zhu: <i><u>Multi-view Clustering via Bi-level Decoupling and Consistency Learning</u></i>. <font color="green">IJCNN 2025</font>. (CCF Rank C) <a href = "https://xinzhongzhu.github.io/document/Multi-view Clustering.pdf">[PDF]</a> </li></p>
