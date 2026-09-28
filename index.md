@@ -153,7 +153,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
     <ol>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 5]</b></font> Jinkai Yao; Jiaze Jin; <b>Huiying Xu*</b>; Zeyu Wang; Xinzhong Zhu; Hongbo Li: <i><u> ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </font> (Apr 2026) (CCF-B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_State_Space_Models_For_Cross__Modality_Fusion.pdf">[PDF]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 5]</b></font> Jinkai Yao; Jiaze Jin; <b>Huiying Xu*</b>; Zeyu Wang; Xinzhong Zhu; Hongbo Li: <i><u> DYNAMICSTATE SPACEMODELSFORCROSS−MODALITYFUSION </u></i>. <font color="green"> ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </font> (Apr 2026) (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_State_Space_Models_For_Cross__Modality_Fusion.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NNICE' 1]</b></font> Yuxing Chen; <b>Huiying Xu*</b>; Zhendong Chen; Yue Hu; Xinzhong Zhu: <i><u>FMDiffBTS: A Lightweight Frequency-decoupled Mamba Diffusion Network for 3D Brain Tumor Segmentation</u></i>. <font color="green"> 2026 6th International Conference on Neural Networks, Information and Communication Engineering (NNICE) </font> (Apr 2026) (EI) <a href = "https://xinzhongzhu.github.io/document/FMDiffBTS_A_Lightweight_Frequency-decoupled_Mamba_Diffusion_Network_for_3D_Brain_Tumor_Segmentation.pdf">[PDF]</a>  </li></p>
 
